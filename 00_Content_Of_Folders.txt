@@ -1,0 +1,48 @@
+Content Of These Folders:
+
+PICTURES: The folders that are:
+    1)
+    2)
+    3)
+ACADEMIC: The folders that are:
+    1) University Documents
+    2) Articles
+    3) Master Studyies
+    4) PhD Studyies
+    5) PhD Course Folders
+    6) Books
+    7) Marmara Master
+    8) Medeniyet University
+    9) Coursera
+    10) How to Write Article
+    11) Udemy Folders
+    12) Certificates
+    13) Lecture Notes
+    14) Baskı Devre Kitabı
+
+
+WORK: The folders that are:
+    1) Interview Studyies
+    2) Projects to demonstrate to employeer
+    3) Info Files
+    4) Driving License and ID Photos
+    5) Fiorino
+    6) Easy_Cep
+    7) Weekly Daily Planning in For Future
+    8) Application For Research Assistant
+    9) Complaints
+    10) Health Reports
+    11) GenaRail
+    12) Horizon
+    13) Saved Project Folders
+    14) Programming CCS
+    15) QT Studyies
+    16) Giriş Çıkış Bilgileri
+
+VIDEO: The folders that are:
+    1) Youtube
+    2)
+    3)
+
+Video Content:
+    The folder consist of the videos of the folders
