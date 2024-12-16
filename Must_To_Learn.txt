@@ -1,0 +1,8 @@
+Qt
+C++
+Linux
+Matlab - Electrical Vehicle
+Python-Yolov 
+
+Linux Kernel development 
+Linux internet 
