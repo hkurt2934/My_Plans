@@ -1,34 +1,32 @@
-Comparing between boost converter and sepic converter.
-Comparing between Zeta Converter and sepic converter
-Comparing between Sepic converter and Cuk converter
-Comparing between buck-boost converter and flyback converter, also in isolating and non-isolating
-Comparing between flyback converter and push-pull converter
-Effect r-l-c on a circuit
-How zenner diode works.
-P-I-D paramters effect on output. 
+1) Converters:
+> Comparing between boost converter and sepic converter.
+> Comparing between Zeta Converter and sepic converter
+> Comparing between Sepic converter and Cuk converter
+> Comparing between buck-boost converter and flyback converter, also in isolating and non-isolating
+> Comparing between flyback converter and push-pull converter
+> Comparing the efficiency 
 
-Motor types. Dc Motor, Induction Motor and Synchronous Motor. 
+2) How RLC effects on a circuit
 
-Solution dc analysis of a circuit. 
+3) How zenner diode works.
 
-Solving EEE bachelor course questions. 
+4) P-I-D paramters effect on output. 
 
-1) Finding question defining your study:
-Comparing the efficiency 
+5) Motor types. Dc Motor, Induction Motor and Synchronous Motor. 
 
-Python code How to write in youtube search.
-Python code for How to open youtube videos. 
-Python code How to make next video.
-Python code How to close page.
-KiCad, design an amplifier.
-
-DC Analysis:
+6) DC Analysis:
 In the circuit analysis video series has 4 differenet video.
-1 Video contains the introduction and Ohms law.
-2 video has kirchoff laws
-3 video has thevenin and northon theorem
-4 video has ac/dc analysis 
+> Video contains the introduction and Ohms law.
+> video has kirchoff laws
+> video has thevenin and northon theorem
+> video has ac/dc analysis 
 
-Resistance, inductance capacitance and reluctance 
+7) Resistance, inductance capacitance and reluctance 
 
-What is the senchron speed of induction motor.
+8) What is the synchronous speed of induction motor.
+
+9) Solving EEE bachelor course questions.
+
+10) KiCad, design an amplifier.
+
+
