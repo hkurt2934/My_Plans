@@ -1,3 +1,4 @@
+Academic Subjects:
  1) PV
  2) SC
  3) WPT
@@ -6,3 +7,21 @@
  6) Regenerative Braking Systems
  7) Active Suspension Systems
  8)
+
+Job Subject:
+Qt
+C++
+Linux
+Matlab - Electrical Vehicle
+Python-Yolov 
+
+Linux Kernel development 
+Linux internet 
+
+Summer Works:
+
+Cpp Learning
+Control Sytem
+IELTS
+youtube videos
+Car Works
