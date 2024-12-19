@@ -1,12 +1,12 @@
 Academic Subjects:
- 1) PV
- 2) SC
- 3) WPT
- 4) FUEL CELL
- 5) PMSM-FOC
- 6) Regenerative Braking Systems
- 7) Active Suspension Systems
- 8)
+    1) PV
+    2) SC
+    3) WPT
+    4) FUEL CELL
+    5) PMSM-FOC
+    6) Regenerative Braking Systems
+    7) Active Suspension Systems
+    8)
 
 Fuel Cell Pages:
 https://www.nature.com/subjects/fuel-cells 
@@ -30,3 +30,15 @@ Control Sytem
 IELTS
 youtube videos
 Car Works
+
+Effect of efficiency depend on angle of solar panel on vehicles.
+
+Regen:
+    1) ABS frenleme için iki motor olacak regen fren için. Ayrıca bunların arkasında da küçük disk frenleme olacak yetersiz kaldığı durumlarda.
+    2) Katlı voltaj ile akım sürekli akması sağlanması bataryaları 12 voltluk besleme için 48-36-24-12 olacak şekilde voltaj 48 volttan çıkan akım 36 volta bağlanacak bu sayede 48 voltun yükü 36 yı şarj edecek aynı şekilde 36, 24 voltu 24 volt ise 12 voltu şarj edecek.
+    3) Denize dik iki yelpaze kanatları dalgalarla enerji üretecek bu sayede su yüzeyini dikey açılı olduğundan kapatmayacak paralel olanlar göre hemde sahil knearlarına şiddetli dalgaları sönümleyecek.
+
+GenaTrain:
+    1) Trenin içinde bulunan generator ile duvarlarında bulunan mıknatıslar sayesinde tren ilerledikçe motor dönecek ve bu sayede trenin gerilim oluşturulacak.
+
+Active Suspension Systems With ANFIS
