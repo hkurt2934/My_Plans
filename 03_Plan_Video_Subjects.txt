@@ -18,8 +18,8 @@
 In the circuit analysis video series has 4 differenet video.
 > Video contains the introduction and Ohms law.
 > video has kirchoff laws
-> video has thevenin and northon theorem
-> video has ac/dc analysis 
+> video has thevenin, northon and super position theorem
+> video has ac/dc analysis why the frequency is zero for dc voltage.
 
 7) Resistance, inductance capacitance and reluctance 
 
