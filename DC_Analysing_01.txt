@@ -85,6 +85,10 @@ It does not hold for non-ohmic components like diodes or transistors, where the 
 
 
 
+Slide Last)
+In summary, DC analysis helps us understand circuits with constant voltage and current. Ohm's Law, as the cornerstone of electrical circuit analysis, is indispensable for solving real-world problems. Mastering these concepts lays a strong foundation for any aspiring electrical engineer.
+
+
 
 Subjects:
 1)Introduction To Circuit Anlaysing:
@@ -105,7 +109,7 @@ Subjects:
 
 
 
-
+4) Conclusion
 
 
 
