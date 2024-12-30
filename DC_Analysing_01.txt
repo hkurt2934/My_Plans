@@ -82,6 +82,37 @@ Slide 11) Limitations of Ohm’s Law
 It applies only to linear, ohmic materials, where the relationship between voltage and current is consistent.
 It does not hold for non-ohmic components like diodes or transistors, where the current-voltage relationship is nonlinear.
 
+Slide 12) What is the Water Pipe Analogy
+
+The water pipe analogy is a simple and intuitive way to explain how electrical circuits work by comparing them to a system of water flowing through pipes. Here's how the elements of a circuit correspond to the elements of a water system:
+The water pipe analogy makes it easier to understand abstract electrical concepts by relating them to something tangible and familiar. It’s particularly helpful for explaining how voltage, current, and resistance interact in a circuit based on Ohm's Law.
+
+Slide 13) Water Pipe Analogy for Ohm's Law
+
+Voltage (V) - Water Pressure:
+Voltage (V) is like the water pressure in a pipe.
+Just as water pressure pushes water through a pipe, voltage pushes electrical current through a circuit. Higher pressure means more water flow, just as higher voltage means more current flow.
+Current (I) - Water Flow:
+Current (I) is like the flow of water through the pipe.
+The amount of water flowing through the pipe is analogous to the electric current flowing through the circuit. More pressure results in more water flow, just as more voltage results in more current.
+Resistance (R) - Pipe Narrowness or Obstruction
+Resistance (R) is like the narrowness or obstruction in the pipe.
+If the pipe is narrow or has an obstacle, it’s harder for water to flow. Similarly, resistance in a circuit restricts the flow of current. Higher resistance reduces current flow.
+Battery/Power Supply - Water Pump
+A battery or power supply is like a water pump that provides the pressure to move water through the system. In electrical terms, it provides the voltage that drives current through the circuit.
+Capacitor - Water Tank
+A capacitor is like a tank that stores water temporarily. It can release the water (current) when needed, similar to how a capacitor stores electrical charge and releases it.
+Switch - Valve
+A switch is like a valve in the water system. Opening the valve allows water to flow, just as closing a switch allows current to flow.
+
+Slide 14) Example Using the Water Pipe Analogy
+
+Imagine a water tank connected to a pipe:
+If the pipe is wide (low resistance), a lot of water flows through when you increase the pressure (voltage).
+If the pipe is narrow (high resistance), less water flows, even if you increase the pressure.
+Similarly, in an electrical circuit:
+For a fixed resistance, increasing the voltage will increase the current.
+If the resistance increases, the current decreases for the same voltage.
 
 
 
@@ -105,11 +136,9 @@ Subjects:
 2-4) Limitation of Ohms Law
 
 3) Water Pipe Analogy For Ohms Law
-
-
-
+3-1) What is the Water Pipe Analogy
+3-2) Water Pipe Analogy for Ohm's Law
+3-3) Example Using the Analogy
 
 4) Conclusion
-
-
 
