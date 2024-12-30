@@ -1,15 +1,22 @@
-DC Analysing Introduction and Ohm's Law (From GPT):
+Circuit Analysing Introduction and Ohm's Law Water Pipe Analogy:
 
-1) Introduction to Circuit Analysis
-Welcome to this video on circuit analysis, a cornerstone of electrical and electronics engineering.
+Slide 1) Title Slide
+
+Hello, everyone. Today, I will introduce you to the fundamentals of DC Analysis and Ohm's Law with water pipie analogy. These are foundational concepts in electrical engineering that play a vital role in circuit design and analysis.
+
+Slide 2: Introduction to Circuit Analysis
+
+The circuit analysis is a cornerstone of electrical and electronics engineering.
 Whether you are designing advanced communication systems, developing renewable energy solutions, or creating everyday electronic gadgets, understanding circuit analysis is essential.
 
-2) What is Circuit Analysis:
+
+Slide 3) What is Circuit Analysis:
+
 Circuit analysis involves the study of electrical circuits to determine the behavior of currents, voltages, and power across various components.
-These components—resistors, capacitors, inductors, and semiconductors—form the backbone of any electronic system.
+These components such as resistors, capacitors, inductors, and semiconductors form the backbone of any electronic system.
 Circuit analysis helps engineers understand how these components interact, ensuring the system operates efficiently and reliably.
 
-3) Importance of Circuit Analysis:
+Slide 4) Importance of Circuit Analysis:
 Circuit analysis is more than just theory; it’s a practical tool used to design, test, and optimize electrical systems.
 By analyzing circuits, engineers can:
     Predict the performance of electronic devices before building them.
@@ -70,4 +77,10 @@ It does not hold for non-ohmic components like diodes or transistors, where the 
 
 
 
+
+Subjects:
+1)Introduction which includes:
+1-a) Introduction
+1-b) What is the circuit analysing
+1-c) Importance of the circuit analysing
 
