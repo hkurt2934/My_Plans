@@ -1,4 +1,4 @@
-Circuit Analysing Introduction and Ohm's Law Water Pipe Analogy:
+Introduction to Circuit Analysing and Ohm's Law With Water Pipe Analogy:
 
 Slide 1) Title Slide
 
@@ -116,9 +116,11 @@ If the resistance increases, the current decreases for the same voltage.
 
 
 
-Slide Last)
-In summary, DC analysis helps us understand circuits with constant voltage and current. Ohm's Law, as the cornerstone of electrical circuit analysis, is indispensable for solving real-world problems. Mastering these concepts lays a strong foundation for any aspiring electrical engineer.
+Slide 15)
+In summary, DC analysis helps us understand circuits with constant voltage and current. Ohm's Law, as the cornerstone of electrical circuit analysis, is indispensable for solving real-world problems. Mastering these concepts lays a strong foundation for any aspiring electrical engineer. Also, we talked to water pipe analogy for ohms law. The water pipe analogy provides an intuitive way to understand the behavior of electrical circuits. By comparing voltage to water pressure, current to water flow, and resistance to pipe restrictions, we can visualize how these elements interact based on Ohm's Law. This analogy bridges the gap between abstract electrical principles and real-world experiences, making it easier to grasp the fundamentals of circuit analysis. Understanding these basics is essential for deeper exploration into electrical engineering concepts and practical circuit applications.
 
+Slide 16) Thank You
+Thank you whatching this video. I hope, this is helpfull for you. If you any questions you can write into comments. Stay with love.
 
 
 Subjects:
