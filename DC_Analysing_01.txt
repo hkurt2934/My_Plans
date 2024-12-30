@@ -24,24 +24,26 @@ By analyzing circuits, engineers can:
     Optimize designs for energy efficiency and cost-effectiveness.
     Ensure compliance with safety and regulatory standards.
 
-4) Core Principles of Circuit Analysis:
+Slide 5) Core Principles of Circuit Analysis:
+
 Circuit analysis is based on foundational laws and techniques, including:
     Ohm's Law: Relates voltage, current, and resistance in a circuit.
     Kirchhoff’s Laws: Governs the conservation of current and energy in a network.
     Thevenin and Norton Theorems: Simplify complex circuits for easier analysis.
     AC/DC Analysis: Helps in understanding how circuits behave under alternating and direct current conditions.
 
-5) Applications in Real Life:
+Slide 6) Applications in Real Life:
 From smartphones and computers to power grids and medical devices, circuit analysis plays a critical role in modern technology.
 It helps engineers innovate and build the technology that shapes our lives.
 In this video, we’ll explore the key techniques, tips, and tools for mastering circuit analysis.
 Whether you're a student, a hobbyist, or an experienced engineer, this guide will provide valuable insights to strengthen your understanding of circuits.
 
-Let’s dive in and unravel the fascinating world of electronics circuit analysis!
 
-7) Ohm’s Law: Understanding the Foundation of Circuit Analysis
+Slide 7) Ohm’s Law: Understanding the Foundation of Circuit Analysis
+
+Let’s dive in and unravel the fascinating world of electronics circuit analysis!
 Ohm's Law is one of the most fundamental principles in electronics and electrical engineering.
-It establishes a direct relationship between three critical electrical quantities: voltage (V), current (I), and resistance (R).
+It establishes a direct relationship between three critical electrical quantities: voltage (V), current (I), and resistance (R). We can say for the Ohms Law that it is dancing the voltage, resistance and current.
 
 7-1) The Law
 Ohm’s Law states that the current flowing through a conductor between two points is directly proportional to the voltage across the two points and inversely proportional to the resistance of the conductor. Mathematically, it is expressed as:
@@ -79,8 +81,12 @@ It does not hold for non-ohmic components like diodes or transistors, where the 
 
 
 Subjects:
-1)Introduction which includes:
+1)Introduction To Circuit Anlaysing:
 1-a) Introduction
 1-b) What is the circuit analysing
 1-c) Importance of the circuit analysing
+1-d) Core principles of circuit analysing
+1-e) Application in Real Life
 
+2) Ohm’s Law: Understanding the Foundation of Circuit Analysis
+2-1)
